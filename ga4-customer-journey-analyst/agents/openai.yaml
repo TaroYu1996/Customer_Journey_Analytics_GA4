@@ -1,0 +1,6 @@
+interface:
+  display_name: "GA4 Customer Journey Analyst"
+  short_description: "Analyze GA4 paths, overlap, and attribution"
+  default_prompt: "Use $ga4-customer-journey-analyst to set up or analyze GA4 customer journey, path, overlap, and media touchpoint contribution."
+policy:
+  allow_implicit_invocation: true
